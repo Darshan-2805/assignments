@@ -1,0 +1,19 @@
+*{
+    box-sizing:border-box;
+}
+
+
+
+.column{
+float:left;
+width:33.33%;
+height:77.77%;
+padding:2px;
+display:grid;
+grid-template-auto;
+grid-template-rows:33.33% 33.33% 33.33%;
+}
+
+
+
+

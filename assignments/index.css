@@ -1,0 +1,13 @@
+header{color:maroon;
+background-color:teal;
+padding: 0.5em;
+border-bottom: 5em;
+border-radius: 0.5em;
+font-family: 'Montserrat', sans-serif;}
+
+main{color: black;
+background-color:gray;
+padding:0.3em;
+border-radius: 0.5em;
+margin-top: 0.9em;
+font-family: 'Montserrat', sans-serif;}
