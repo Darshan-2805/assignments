@@ -1,0 +1,72 @@
+body{
+    font-family: 'Source Sans Pro', sans-serif;
+    background-color:navajowhitedark;
+}
+
+
+
+.Introduction{
+    text-align: center;
+    font-size: 18px;
+    padding: 2px;
+    background-color:#364F6B;
+    margin: 2px;
+    border-radius: 5px;    
+}
+
+
+
+.Para{
+    text-align: centre;
+    padding:5px;
+    font-weight: bold;
+    font-size: 18px;
+    text-align: center;
+    background-color: #3FC1C9;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+.Education{
+    text-align: left;
+    padding:5px;
+    font-size:18px;
+    background-color:#F0D43A;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+.Work{
+    text-align: left;
+    padding:5px;
+    font-size:18px;
+    background-color:#FC5185;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+.Skills{
+    text-align: left;
+    padding:5px;
+    font-size:18px;
+    list-style-type: circle;
+    background-color: #FACF5A;
+    margin: 2px;
+    border-radius: 5px;
+}
+
+.Hobbies{
+    text-align: left;
+    padding:5px;
+    font-size:18px;
+    list-style-type: square;
+    background-color: #FF5959;
+    margin: 2px;
+    border-radius: 5px;
+
+}
+
+#W1{text-decoration: underline;
+    font-family: 'Source Sans Pro', sans-serif;
+
+}

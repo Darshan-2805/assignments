@@ -4,6 +4,7 @@ body{
     text-align: center;
     background:rgb(24, 48, 92);
     background-size:cover;
+    font-family: 'Roboto Slab', serif;
 }
 
 .contact-title{
