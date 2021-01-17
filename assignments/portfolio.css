@@ -1,7 +1,10 @@
 *{
     box-sizing:border-box;
 }
-
+body{
+    background-color: brown;
+    transition: all 1.5s ease-in-out;
+}
 
 
 .column{
@@ -12,8 +15,33 @@ padding:2px;
 display:grid;
 grid-template-auto;
 grid-template-rows:33.33% 33.33% 33.33%;
+border-radius:4px;
+
 }
 
+.menubar{align-items: flex-start;
+}
+.nav{
+text-align: right;
+}
+.nav ul{
+list-style: none;
+}
+.nav ul li{
+display: inline-block;
+margin-top:15px;
+}
+.nav ul li a{
+text-decoration: none;
+color: #000;
+font-weight: bold;
+font-size: 18px;
+padding: 10px;
+}
+.nav ul li a:hover{
+color:whitesmoke;
+
+}
 
 
 

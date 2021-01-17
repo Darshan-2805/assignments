@@ -1,0 +1,48 @@
+body{
+    padding:2px;
+    margin: 1px;
+
+    background-color: lightsalmon;
+    font-family: 'Noto Sans KR', sans-serif;
+}
+
+#f1{
+    background-color:#247571;
+    padding:1.5px;
+    margin:1.5px;
+    border-radius:2px;
+}
+
+.bold{text-align: center;
+font-weight:bolder;}
+
+#f2{
+    text-decoration: underline;
+    font-weight:bolder;
+    text-align: center;
+}
+
+
+
+.nav{
+    text-align: right;
+    }
+    .nav ul{
+    list-style: none;
+    }
+    .nav ul li{
+    display: inline-block;
+    margin-top:15px;
+    }
+    .nav ul li a{
+    text-decoration:underline;
+    color: #000;
+    font-weight:bold;
+    font-size: 18px;
+    padding: 10px;
+    }
+    .nav ul li a:hover{
+    color:maroon;
+    
+    }
+    
