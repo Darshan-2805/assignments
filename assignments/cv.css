@@ -70,3 +70,31 @@ body{
     font-family: 'Source Sans Pro', sans-serif;
 
 }
+
+.menubar{align-items: flex-start;
+    background-color: mediumaquamarine;
+    padding: 0.5px;
+    border-radius: 5px;
+    margin: 2px;
+    text-decoration: underline;
+}
+.nav{
+text-align: right;
+}
+.nav ul{
+list-style: none;
+}
+.nav ul li{
+display: inline-block;
+margin-top:15px;
+}
+.nav ul li a{
+text-decoration: none;
+color: #000;
+font-size: 18px;
+padding: 10px;
+}
+.nav ul li a:hover{
+color:maroon;
+
+}
